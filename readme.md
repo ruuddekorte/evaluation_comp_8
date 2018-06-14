@@ -3,7 +3,7 @@ Il vous est demandé de prototyper et d'intégrer une page listant différentes 
 
 ## Objectifs
 * **Maquetter une application sous différents supports (prototypage).**  
-    Durée estimée : *0.5 jour*
+    Durée estimée : *0.5 jour*  
     Compétence : *8 Développer une application simple de mobilité numérique (niv 3)*
 * **Intégration d'une page HTML déclinable sous plusieurs résolutions (code source).**  
     Durée estimée : *1.5 jour*  
@@ -12,7 +12,9 @@ Il vous est demandé de prototyper et d'intégrer une page listant différentes 
 ## Réalisation :
 **Durée :** 14 juin 9h00 - 15 juin 17h (tout retard ne sera pas corrigé)  
 **Groupe :** En solo  
-**Formalité d'envoi :** Lien vers le repository Github envoyé par mail à la team Simplon Rodez
+**Formalité d'envoi :** Lien vers le repository Github envoyé par mail à la team Simplon Rodez  
+**Contrainte :** Ne pas utiliser de framework CSS
+
 
 ## Rendu :
 * Un wireframe avec plusieurs écrans aux formats 320px / 700px / 1200px (à minima)
