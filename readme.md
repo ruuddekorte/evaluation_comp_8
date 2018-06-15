@@ -1,6 +1,19 @@
 # Mise en place d'une interface responsive
-Il vous est demandé de prototyper et d'intégrer une page listant différentes chambres d'un hôtel.
 
+    <!--                   Copyright info :                   -->
+    <!--           the photos used are royaltyfree;           -->
+    <!--               obtained from pexels.com               -->
+    <!--                                                      -->
+    <!--        no pixels were harmed in the process          -->
+    <!--                                                      -->
+
+
+
+
+
+# Consignes
+
+Il vous est demandé de prototyper et d'intégrer une page listant différentes chambres d'un hôtel.
 ## Objectifs
 * **Maquetter une application sous différents supports (prototypage).**  
     Durée estimée : *0.5 jour*  
